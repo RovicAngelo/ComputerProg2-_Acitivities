@@ -1,2 +1,2 @@
-# computerProgramming2
+# Computer Programming 2
 
